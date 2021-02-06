@@ -26,11 +26,7 @@ SPI
 
 
 
-
-
-
-
-
+![fluxograma do projeto]()
 
 
 
