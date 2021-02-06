@@ -1,5 +1,5 @@
 # projeto-mqtt-adrielle
-Projeto da sprint 8-INTERNET OF THINGS
+Projeto da sprint 8- IOT(INTERNET OF THINGS)
 
 
 **Repositório Sprint 8**
