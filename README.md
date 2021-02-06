@@ -26,7 +26,7 @@ SPI
 
 
 
-![fluxograma do projeto]()
+![fluxograma do projeto](https://github.com/Adri-nicole/projeto-mqtt-adrielle/blob/main/imagem%201.PNG)
 
 
 
