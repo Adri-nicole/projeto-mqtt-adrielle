@@ -21,11 +21,6 @@ SPI
 
 
 
-
-
-
-
-
 ![fluxograma do projeto](https://github.com/Adri-nicole/projeto-mqtt-adrielle/blob/main/imagem%201.PNG)
 
 
@@ -45,13 +40,9 @@ Smartphone
 
 
 
+**CIRCUITO:**
 
-
-
-
-
-
-**CIRCUITO**
+![Fluxograma do circuito](https://github.com/Adri-nicole/projeto-mqtt-adrielle/blob/main/imagem%202.PNG)
 
 
 
