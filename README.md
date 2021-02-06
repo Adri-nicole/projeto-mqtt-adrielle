@@ -20,7 +20,6 @@ SPI
 
 
 
-
 ![fluxograma do projeto](https://github.com/Adri-nicole/projeto-mqtt-adrielle/blob/main/imagem%201.PNG)
 
 
@@ -36,9 +35,6 @@ Sensor Magnetico (MC-38)
 Jumpers
 
 Smartphone
-
-
-
 
 
 
